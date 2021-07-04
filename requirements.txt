@@ -7,6 +7,7 @@ colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler==0.10.0
 decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
 Flask==1.1.2
+gunicorn==20.1.0
 imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1613662486985/work
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877477759/work
 ipykernel @ file:///C:/ci/ipykernel_1607454116140/work/dist/ipykernel-5.3.4-py3-none-any.whl
